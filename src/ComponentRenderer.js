@@ -2,7 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import AnimationRevealPage from "helpers/AnimationRevealPage.js"
 
-import RestaurantLandingPage from "RestaurantLandingPage.js";
+import RestaurantLandingPage from "pages/RestaurantLandingPage.js";
 import RestaurantLandingPageImageSrc from "images/demo/RestaurantLandingPage.jpeg";
 
 import LoginPage from "pages/Login.js";
